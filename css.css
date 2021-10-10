@@ -183,7 +183,7 @@ nav .icon-burger .line {
     width: 90%;
     margin: auto;
     overflow: hidden;
-    background: rgb(26, 33, 36);
+    
     margin-top: 20px;
 }
 
@@ -198,7 +198,6 @@ nav .icon-burger .line {
     list-style: none;
     width:20%;
     height:300px;
-    background: red;
     margin :20px 0px 20px 55px; 
     border:2px solid blue;
     box-sizing: border-box;
@@ -206,7 +205,6 @@ nav .icon-burger .line {
 .container ul li:hover{
     opacity: 0.8;
 }
-
 .container ul li .bottom{
     width: 100%;
     height:50px;
@@ -217,8 +215,9 @@ nav .icon-burger .line {
     font-size: 20px;
    
 }
+
 .bottom{
-    background-image: url(./img/broken.jpg);
+    height: 30%;
 }
 
 @media screen and (max-width:1250px){
