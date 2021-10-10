@@ -176,9 +176,6 @@ nav .icon-burger .line {
     background-color: rgba(22, 16, 16, 0.185);
 }
 
-
-
-
 .container{
     width: 90%;
     margin: auto;
@@ -217,10 +214,6 @@ nav .icon-burger .line {
     font-size: 20px;
    
 }
-.bottom{
-    background-image: url(./img/broken.jpg);
-}
-
 @media screen and (max-width:1250px){
     .container ul li{
         width:40%;
