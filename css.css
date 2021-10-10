@@ -176,9 +176,6 @@ nav .icon-burger .line {
     background-color: rgba(22, 16, 16, 0.185);
 }
 
-
-
-
 .container{
     width: 90%;
     margin: auto;
@@ -215,11 +212,14 @@ nav .icon-burger .line {
     font-size: 20px;
    
 }
+<<<<<<< HEAD
 
 .bottom{
     height: 30%;
 }
 
+=======
+>>>>>>> 3c1f01db7faf29226b385c3720a4e83fdc25479d
 @media screen and (max-width:1250px){
     .container ul li{
         width:40%;
